@@ -11,3 +11,7 @@ body {
     width: 200px;
     height: 200px;
 }
+
+.searchbox, .search-btn {
+    height: 30px;
+}
